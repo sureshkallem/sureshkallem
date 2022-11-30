@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sureshkallem
-- 👀 I’m interested in Full Stack Development using javascript, go and python
+- 👀 I’m interested in Full Stack Development using javascript,angular,react,nodejs, go and python
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
